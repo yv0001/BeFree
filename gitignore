@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+.streamlit/secrets.toml
+
+# real statements and exported results (private financial data)
+uploads/
+output/
+*.xlsx
+*.csv
+real_*.pdf
+.DS_Store
